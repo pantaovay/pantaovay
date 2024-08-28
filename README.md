@@ -12,15 +12,15 @@ With **extensive experience and knowledge in blockchain**, systems architecture,
 
 ## Experience
 
-- **CTO at Particle Network(May 2022 - Present):** Leading the Chain Abstraction and Wallet Abstraction products/L1 chain development to address the user and liquidity fragmentation issues in Web3.
+- **CTO at Particle Network (May 2022 - Present):** Leading the Chain Abstraction and Wallet Abstraction products/L1 chain development to address the user and liquidity fragmentation issues in Web3.
   
-- **CTO at MiniJoy(Sep 2019 - May 2022):** Built a social gaming application from scratch, serving over **100 millions of users** globally.
+- **CTO at MiniJoy (Sep 2019 - May 2022):** Built a social gaming application from scratch, serving over **100 millions of users** globally.
 
-- **CTO at Tongzhuo Games(Sep 2017 - Sep 2019):** Created an innovative platform that combines gaming and social, growing it from scratch to **over 100 million** users, **securing over $20 million** in funding from renowned VCs such as **Alibaba, Qiming Venture Partners and SAIF Partners**.
+- **CTO at Tongzhuo Games (Sep 2017 - Sep 2019):** Created an innovative platform that combines gaming and social, growing it from scratch to **over 100 million** users, **securing over $20 million** in funding from renowned VCs such as **Alibaba, Qiming Venture Partners and SAIF Partners**.
 
-- **Senior Software Engineer at YOLO Times(Nov 2015 - Sep 2017):** One of the earliest live-streaming social products, where as a core engineer, I implemented a real-time chat and live streaming system capable of handling tens of thousands of concurrent users.
+- **Senior Software Engineer at YOLO Times (Nov 2015 - Sep 2017):** One of the earliest live-streaming social products, where as a core engineer, I implemented a real-time chat and live streaming system capable of handling tens of thousands of concurrent users.
 
-- **Senior Software Engineer at YOUNG(Jul 2014 - Nov 2015):** An innovative campus-oriented social product where I led backend development and implemented key features such as feed, universal search, and real-time matching.
+- **Senior Software Engineer at YOUNG (Jul 2014 - Nov 2015):** An innovative campus-oriented social product where I led backend development and implemented key features such as feed, universal search, and real-time matching.
 
 <br/>
 
