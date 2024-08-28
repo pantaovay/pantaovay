@@ -1,6 +1,6 @@
 ![Peter Banner](https://static.particle.network/other/github-banner.jpeg)
 
-<h1 align="center">👋 Hi, I’m Peter</h1>
+<h1 align="center">👋 Hi, I’m Tao Pan</h1>
 
 As the Co-Founder and CTO of [Particle Network](https://particle.network), I bring deep technical knowledge and insights into blockchain technology, consistently contributing to and focusing on technological and product innovations in the Web3 space. Starting with Wallet-as-a-Service, we keenly identified the barriers for users entering Web3 and were the first in the industry to launch an MPC-TSS solution, attracting a large number of developers and users. Our chain abstraction product, powered by L1-driven Universal Accounts, addresses the fragmentation of users and liquidity issues in Web3.
 
