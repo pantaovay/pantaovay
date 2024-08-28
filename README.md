@@ -28,4 +28,4 @@ With **extensive experience and knowledge in blockchain**, systems architecture,
 
 ![Tsinghua Universal Logo](https://static.particle.network/other/tsinghua.jpeg) 
 
-Tsinghua Unievrsity (Jul 2010 - Jul 2014)
+Tsinghua University (Jul 2010 - Jul 2014, Bachelor's degree, Industrial Engineering)
