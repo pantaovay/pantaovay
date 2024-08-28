@@ -14,7 +14,7 @@ With **extensive experience and knowledge in blockchain**, systems architecture,
 
 - **CTO at Particle Network(May 2022 - Present):** Leading the Chain Abstraction and Wallet Abstraction products/L1 chain development to address the user and liquidity fragmentation issues in Web3.
   
-- **CTO at MiniJoy(Sep 2019 - May 2022):** Built a social gaming application from scratch, serving over **1 millions of users** globally.
+- **CTO at MiniJoy(Sep 2019 - May 2022):** Built a social gaming application from scratch, serving over **100 millions of users** globally.
 
 - **CTO at Tongzhuo Games(Sep 2017 - Sep 2019):** Created an innovative platform that combines gaming and social, growing it from scratch to **over 100 million** users, **securing over $20 million** in funding from renowned VCs such as **Alibaba, SoftBank Ventures, and Qiming Venture Partners**.
 
